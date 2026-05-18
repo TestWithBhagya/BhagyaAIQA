@@ -1,13 +1,10 @@
-````markdown
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BhagyaQA-S/BhagyaQA-S/main/assets/ChatGPT%20Image%20May%2018%2C%202026%2C%2006_09_51%20PM.png" width="100%" />
+<img src="https://raw.githubusercontent.com/BhagyaQA-S/BhagyaQA-S/main/assets/qa-banner.png" width="100%" />
 
-# ⚡ BHAGYASHRI SHASTRAKAR ⚡
+# ⚡ BHAGYASHREE SHASTRAKAR ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=SOFTWARE+QA+ENGINEER;AUTOMATION+TESTING+SPECIALIST;SELENIUM+%7C+JAVA+%7C+TESTNG;REST+ASSURED+%7C+API+TESTING;AI+TOOLS+%7C+GENERATIVE+AI" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50f4de3e2.gif" width="100%">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=950&lines=SOFTWARE+QA+ENGINEER;4%2B+Years+Experience+in+QA;AUTOMATION+TESTING+SPECIALIST;SELENIUM+%7C+JAVA+%7C+TESTNG;REST+ASSURED+%7C+API+TESTING;PYTHON+%7C+GENERATIVE+AI;AI+TOOLS+%7C+PROMPT+ENGINEERING" />
 
 </div>
 
@@ -15,42 +12,22 @@
 
 # 💫 ABOUT ME
 
-<img align="right" width="380" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```yaml
-Name: Bhagyashri Shastrakar
+Name: Bhagyashree Shastrakar
 Role: Software QA Engineer
+Experience: 4+ Years
 Location: India
-Focus: Automation Testing & AI
-Experience: 4+ Years in Manual & Automation Testing
-Passion: Building Scalable Automation Frameworks
-````
+Specialization: Manual & Automation Testing
+Current Focus: Automation + AI Technologies
+```
 
 🚀 Results-driven Software QA Engineer with strong expertise in Manual & Automation Testing for enterprise web applications and ecommerce platforms.
 
 ⚡ Experienced in Selenium WebDriver with Java, TestNG, POM Framework, API Testing, JIRA, Agile Scrum, SQL Validation, and CI/CD concepts.
 
-🔥 Strong expertise in:
-
-* Functional Testing
-* Regression Testing
-* Integration Testing
-* Cross Browser Testing
-* Automation Framework Design
-* API Validation
-* Defect Lifecycle Management
-* Database Testing
-
-🧠 Currently learning:
-
-* Python Programming
-* REST Assured Automation
-* Jenkins CI/CD
-* Generative AI
-* Prompt Engineering
-* Google Cloud AI
-* Vertex AI
-* AI-Powered Testing
+🧠 Currently learning Python and Generative AI technologies to build intelligent automation solutions and AI-powered QA workflows.
 
 ---
 
@@ -107,10 +84,9 @@ Passion: Building Scalable Automation Frameworks
 ```diff
 + Enterprise Selenium Automation Framework
 + Java + Selenium + TestNG + Maven
++ Cross Browser Testing
 + Reporting + Screenshot Capture
 + Reusable Utilities & Listeners
-+ Cross Browser Testing
-+ Scalable Framework Architecture
 ```
 
 ---
@@ -139,6 +115,29 @@ Passion: Building Scalable Automation Frameworks
 
 ---
 
+# 🧠 CURRENT LEARNING
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+</div>
+
+```yaml
+Learning:
+  - Python Programming
+  - REST Assured Automation
+  - Jenkins CI/CD
+  - Generative AI
+  - Prompt Engineering
+  - Vertex AI
+  - AI-Powered Testing
+```
+
+🚀 Exploring AI-driven automation and intelligent Quality Engineering workflows.
+
+---
+
 # 🛠 TECH STACK
 
 <div align="center">
@@ -146,44 +145,6 @@ Passion: Building Scalable Automation Frameworks
 <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,maven,jenkins,eclipse,vscode" />
 
 </div>
-
----
-
-# ⚡ AUTOMATION EXPERTISE
-
-<table>
-<tr>
-<td width="50%">
-
-## ✅ Automation Testing
-
-* Selenium WebDriver
-* TestNG
-* POM Framework
-* Data Driven Testing
-* Hybrid Framework
-* Cross Browser Testing
-* XPath & CSS Selectors
-* Wait Mechanisms
-
-</td>
-
-<td width="50%">
-
-## ✅ API & Database
-
-* REST Assured
-* Postman
-* JSON Validation
-* CRUD Operations
-* MySQL Queries
-* API Automation
-* Response Validation
-* Authentication Testing
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -209,20 +170,6 @@ Passion: Building Scalable Automation Frameworks
 
 ---
 
-# 🏆 ACHIEVEMENTS
-
-🏅 Built multiple Selenium Automation Frameworks
-
-🏅 Practicing enterprise-level QA workflows
-
-🏅 Learning AI + Automation integration
-
-🏅 Building scalable API Automation projects
-
-🏅 Consistently improving testing & automation skills
-
----
-
 # 🌐 CONNECT WITH ME
 
 <div align="center">
@@ -243,33 +190,19 @@ Passion: Building Scalable Automation Frameworks
 
 ---
 
-# 👨‍💻 PORTFOLIO
+# ⚡ ELITE QA ENGINEER QUOTE
 
-📌 GitHub Repositories
-👉 https://github.com/BhagyaQA-S?tab=repositories
-
-📌 Resume
-👉 https://drive.google.com/file/d/11jg7VYToy9tnnt1B2GNA5VThQgERE8eg/view?usp=drivesdk
-
----
-
-# ⚡ QA ENGINEER QUOTE
-
-<div align="center">
-
-## “Software QA is not about breaking applications —
-
-## it is about building trust before users ever touch the product.”
-
-</div>
+> “A great QA Engineer does not simply test software —
+> they protect business reliability, user trust, and product quality.”
 
 ---
 
 <div align="center">
+
+## 🚀 DELIVERING QUALITY THROUGH INTELLIGENT AUTOMATION
 
 <img src="https://komarev.com/ghpvc/?username=BhagyaQA-S&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
 
 </div>
-```
