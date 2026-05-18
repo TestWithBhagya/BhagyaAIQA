@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/BhagyaQA-S/BhagyaQA-S/main/assets/qa-banner.png" width="100%" />
 
+
+
 # ⚡ BHAGYASHREE SHASTRAKAR ⚡
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=950&lines=SOFTWARE+QA+ENGINEER;4%2B+Years+Experience+in+QA;AUTOMATION+TESTING+SPECIALIST;SELENIUM+%7C+JAVA+%7C+TESTNG;REST+ASSURED+%7C+API+TESTING;PYTHON+%7C+GENERATIVE+AI;AI+TOOLS+%7C+PROMPT+ENGINEERING" />
