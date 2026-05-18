@@ -1,10 +1,10 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/BhagyaQA-S/BhagyaQA-S/main/assets/qa-banner.png" width="100%" />
+
 # ⚡ BHAGYASHREE SHASTRAKAR ⚡
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=950&lines=SOFTWARE+QA+ENGINEER;4%2B+Years+Experience+in+QA;AUTOMATION+TESTING+SPECIALIST;SELENIUM+%7C+JAVA+%7C+TESTNG;REST+ASSURED+%7C+API+TESTING;PYTHON+%7C+GENERATIVE+AI;AI+TOOLS+%7C+PROMPT+ENGINEERING" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50f4de3e2.gif" width="100%">
 
 </div>
 
@@ -12,7 +12,7 @@
 
 # 💫 ABOUT ME
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```yaml
 Name: Bhagyashree Shastrakar
@@ -23,22 +23,11 @@ Specialization: Manual & Automation Testing
 Current Focus: Automation + AI Technologies
 ```
 
-🚀 Results-driven Software QA Engineer with 4+ years of experience in Manual and Automation Testing for enterprise web applications and ecommerce platforms.
+🚀 Results-driven Software QA Engineer with strong expertise in Manual & Automation Testing for enterprise web applications and ecommerce platforms.
 
 ⚡ Experienced in Selenium WebDriver with Java, TestNG, POM Framework, API Testing, JIRA, Agile Scrum, SQL Validation, and CI/CD concepts.
 
-🔥 Strong expertise in:
-
-* Functional Testing
-* Regression Testing
-* Integration Testing
-* Cross Browser Testing
-* Automation Framework Design
-* API Validation
-* Defect Lifecycle Management
-* Database Testing
-
-🧠 Currently expanding expertise in Python and Generative AI technologies to build next-generation intelligent automation solutions.
+🧠 Currently learning Python and Generative AI technologies to build intelligent automation solutions and AI-powered QA workflows.
 
 ---
 
@@ -52,13 +41,13 @@ Current Focus: Automation + AI Technologies
 
 ✔️ Reduced regression testing effort by 40% through reusable automation framework design
 
-✔️ Performed end-to-end testing for web and mobile applications across multiple business modules
+✔️ Performed end-to-end testing for enterprise web and mobile applications
 
 ✔️ Conducted API Testing using Postman with JSON/XML response validation
 
-✔️ Reported and tracked 200+ defects using JIRA and collaborated with development teams for faster resolution
+✔️ Reported and tracked 200+ defects using JIRA
 
-✔️ Participated in Agile Scrum ceremonies including sprint planning, daily standups, reviews, and retrospectives
+✔️ Participated in Agile Scrum ceremonies and sprint activities
 
 ---
 
@@ -70,7 +59,6 @@ Current Focus: Automation + AI Technologies
 + Customer Login & Registration Testing
 + Product & Inventory Validation
 + Basket & Payment Workflow Testing
-+ Vendor Allocation Validation
 + Functional + Regression Testing
 + Integration Testing
 ```
@@ -83,7 +71,6 @@ Current Focus: Automation + AI Technologies
 + Student Registration Testing
 + Form Validation Testing
 + Document Upload Verification
-+ Notification & Workflow Validation
 + Admin Approval Module Testing
 + Data Integrity Validation
 ```
@@ -97,10 +84,9 @@ Current Focus: Automation + AI Technologies
 ```diff
 + Enterprise Selenium Automation Framework
 + Java + Selenium + TestNG + Maven
-+ Reusable Utilities & Reporting
-+ Screenshot Capture & Listeners
 + Cross Browser Testing
-+ Scalable Automation Architecture
++ Reporting + Screenshot Capture
++ Reusable Utilities & Listeners
 ```
 
 ---
@@ -113,7 +99,6 @@ Current Focus: Automation + AI Technologies
 + Data Driven Testing
 + Excel Utility Integration
 + Advanced XPath & Waits
-+ TestNG Execution & Reporting
 ```
 
 ---
@@ -124,7 +109,6 @@ Current Focus: Automation + AI Technologies
 + REST API Automation Framework
 + CRUD Operations Testing
 + Authentication Handling
-+ Request Specification Builder
 + JSON Schema Validation
 + Maven Integrated Reporting
 ```
@@ -140,28 +124,17 @@ Current Focus: Automation + AI Technologies
 </div>
 
 ```yaml
-Current Learning Path:
+Learning:
   - Python Programming
-  - REST Assured API Automation
-  - Advanced TestNG
+  - REST Assured Automation
   - Jenkins CI/CD
   - Generative AI
   - Prompt Engineering
-  - Google Cloud AI
   - Vertex AI
-  - AI Tools for Software Testing
+  - AI-Powered Testing
 ```
 
-🚀 Learning Python and Generative AI technologies to combine intelligent automation with modern Quality Engineering practices.
-
-⚡ Exploring:
-
-* AI-Powered Testing
-* Large Language Models (LLMs)
-* AI Agents
-* Prompt Engineering
-* AI Automation Tools
-* Smart QA Workflows
+🚀 Exploring AI-driven automation and intelligent Quality Engineering workflows.
 
 ---
 
@@ -172,44 +145,6 @@ Current Learning Path:
 <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,maven,jenkins,eclipse,vscode" />
 
 </div>
-
----
-
-# ⚡ QA & AUTOMATION SKILLS
-
-<table>
-<tr>
-<td width="50%">
-
-## ✅ Testing Skills
-
-* Manual Testing
-* Functional Testing
-* Regression Testing
-* Integration Testing
-* Exploratory Testing
-* API Testing
-* Database Validation
-* Agile Scrum
-
-</td>
-
-<td width="50%">
-
-## ✅ Automation Skills
-
-* Selenium WebDriver
-* Core Java
-* TestNG
-* POM Framework
-* REST Assured
-* Maven
-* Jenkins
-* Git & GitHub
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -255,16 +190,6 @@ Current Learning Path:
 
 ---
 
-# 👨‍💻 PORTFOLIO & RESUME
-
-📌 GitHub Repositories
-👉 https://github.com/BhagyaQA-S?tab=repositories
-
-📌 Resume
-👉 https://drive.google.com/file/d/11jg7VYToy9tnnt1B2GNA5VThQgERE8eg/view?usp=drivesdk
-
----
-
 # ⚡ ELITE QA ENGINEER QUOTE
 
 > “A great QA Engineer does not simply test software —
@@ -274,7 +199,7 @@ Current Learning Path:
 
 <div align="center">
 
-## 🚀 Delivering Quality Through Intelligent Automation
+## 🚀 DELIVERING QUALITY THROUGH INTELLIGENT AUTOMATION
 
 <img src="https://komarev.com/ghpvc/?username=BhagyaQA-S&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
