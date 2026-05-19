@@ -26,9 +26,9 @@ Current Focus: Automation + AI Technologies
 
 🚀 Results-driven Software QA Engineer with strong expertise in Manual & Automation Testing for enterprise web applications and ecommerce platforms.
 
-⚡ Skilled in Selenium WebDriver with Java, TestNG, POM Framework, API Testing, JIRA, Agile Scrum, SQL Validation, Automation Framework Development, and Quality Engineering practices.
+⚡ Skilled in Selenium WebDriver with Java, TestNG, POM Framework, API Testing, JIRA, Agile Scrum, SQL Validation, and Automation Framework Development.
 
-🧠 Passionate about AI-driven testing, intelligent automation workflows, and next-generation Quality Engineering solutions.
+🧠 Passionate about AI-driven testing, intelligent automation workflows, and next-generation Quality Engineering practices.
 
 ---
 
@@ -60,8 +60,7 @@ Current Focus: Automation + AI Technologies
 + Customer Login & Registration Testing
 + Product & Inventory Validation
 + Basket & Payment Workflow Testing
-+ Functional Testing
-+ Regression Testing
++ Functional + Regression Testing
 + Integration Testing
 ```
 
@@ -100,7 +99,7 @@ Current Focus: Automation + AI Technologies
 + Page Object Model (POM)
 + Data Driven Testing
 + Excel Utility Integration
-+ Advanced XPath & Wait Strategies
++ Advanced XPath & Waits
 ```
 
 ---
