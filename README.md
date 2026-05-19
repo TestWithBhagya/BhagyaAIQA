@@ -12,7 +12,10 @@
 
 # 💫 ABOUT ME
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+```markdown
+<img align="right" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+```
+
 
 ```yaml
 Name: Bhagyashree Shastrakar
