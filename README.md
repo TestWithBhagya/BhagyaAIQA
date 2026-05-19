@@ -26,9 +26,9 @@ Current Focus: Automation + AI Technologies
 
 🚀 Results-driven Software QA Engineer with strong expertise in Manual & Automation Testing for enterprise web applications and ecommerce platforms.
 
-⚡ Skilled in Selenium WebDriver with Java, TestNG, POM Framework, API Testing, JIRA, Agile Scrum, SQL Validation, and Automation Framework Development.
+⚡ Experienced in Selenium WebDriver with Java, TestNG, POM Framework, API Testing, JIRA, Agile Scrum, SQL Validation, and CI/CD concepts.
 
-🧠 Passionate about AI-driven testing, intelligent automation workflows, and next-generation Quality Engineering practices.
+🧠 Currently learning Python and Generative AI technologies to build intelligent automation solutions and AI-powered QA workflows.
 
 ---
 
@@ -120,24 +120,22 @@ Current Focus: Automation + AI Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,jenkins" />
+<img src="https://skillicons.dev/icons?i=python" />
 
 </div>
 
 ```yaml
-Practiced & Self-Learned:
+Learning:
   - Python Programming
   - REST Assured Automation
   - Jenkins CI/CD
-
-Currently Learning:
   - Generative AI
   - Prompt Engineering
   - Vertex AI
   - AI-Powered Testing
 ```
 
-🚀 Passionately exploring AI-driven automation, intelligent testing workflows, and next-generation Quality Engineering practices.
+🚀 Exploring AI-driven automation and intelligent Quality Engineering workflows.
 
 ---
 
@@ -165,9 +163,9 @@ Currently Learning:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TestWithBhagya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TestWithBhagya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TestWithBhagya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TestWithBhagya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -177,17 +175,7 @@ Currently Learning:
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=TestWithBhagya&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/TestWithBhagya/TestWithBhagya/output/github-contribution-grid-snake-dark.svg" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=TestWithBhagya&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
