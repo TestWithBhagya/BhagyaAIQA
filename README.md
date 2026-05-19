@@ -170,7 +170,6 @@ Currently Learning:
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TestWithBhagya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
 
 </div>
-```
 
 
 
