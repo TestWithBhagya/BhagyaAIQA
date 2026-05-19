@@ -1,6 +1,5 @@
+````md
 <div align="center">
-
-
 
 # ⚡ BHAGYASHREE SHASTRAKAR ⚡
 
@@ -12,26 +11,7 @@
 
 # 💫 ABOUT ME
 
-
-
-
-
 <img align="right" width="380" src="https://raw.githubusercontent.com/TestWithBhagya/BhagyaAIQA/main/ChatGPT%20Image%20May%2019%2C%202026%2C%2002_31_19%20PM.png">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ```yaml
 Name: Bhagyashree Shastrakar
@@ -40,7 +20,7 @@ Experience: 4+ Years
 Location: India
 Specialization: Manual & Automation Testing
 Current Focus: Automation + AI Technologies
-```
+````
 
 🚀 Results-driven Software QA Engineer with strong expertise in Manual & Automation Testing for enterprise web applications and ecommerce platforms.
 
@@ -171,9 +151,9 @@ Learning:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BhagyaQA-S&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TestWithBhagya&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhagyaQA-S&layout=compact&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TestWithBhagya&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -183,7 +163,7 @@ Learning:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=BhagyaQA-S&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=TestWithBhagya&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -193,7 +173,7 @@ Learning:
 
 <div align="center">
 
-<a href="https://github.com/BhagyaQA-S">
+<a href="https://github.com/TestWithBhagya">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -220,8 +200,9 @@ Learning:
 
 ## 🚀 DELIVERING QUALITY THROUGH INTELLIGENT AUTOMATION
 
-<img src="https://komarev.com/ghpvc/?username=BhagyaQA-S&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=TestWithBhagya&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
 
 </div>
+```
