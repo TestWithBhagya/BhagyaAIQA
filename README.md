@@ -22,7 +22,7 @@ Experience: 4+ Years
 Location: India
 Specialization: Manual & Automation Testing
 Current Focus: Automation + AI Technologies
-````
+```
 
 🚀 Results-driven Software QA Engineer with strong expertise in Manual & Automation Testing for enterprise web applications and ecommerce platforms.
 
@@ -153,7 +153,7 @@ Learning:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TestWithBhagya&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TestWithBhagya&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -163,9 +163,9 @@ Learning:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TestWithBhagya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TestWithBhagya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TestWithBhagya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TestWithBhagya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -175,17 +175,7 @@ Learning:
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=TestWithBhagya&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=TestWithBhagya&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
@@ -227,4 +217,4 @@ Learning:
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-```
+````
