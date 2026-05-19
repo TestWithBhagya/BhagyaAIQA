@@ -165,13 +165,14 @@ Currently Learning:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TestWithBhagya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&rank_icon=github" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TestWithBhagya&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&bg_color=0D1117&theme=tokyonight" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TestWithBhagya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TestWithBhagya&layout=compact&hide_border=true&title_color=00F7FF&text_color=FFFFFF&bg_color=0D1117&theme=tokyonight" alt="Top Languages" />
 
 </div>
 
 
+---
 
 # 🔥 CONTRIBUTION STREAK
 
