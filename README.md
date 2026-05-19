@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BhagyaQA-S/BhagyaQA-S/main/assets/qa-banner.png" width="100%" />
+
 
 # ⚡ BHAGYASHREE SHASTRAKAR ⚡
 
