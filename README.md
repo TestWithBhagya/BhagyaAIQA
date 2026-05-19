@@ -16,7 +16,7 @@
 
 
 
-<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+[<img align="right" width="380" src="https://chatgpt.com/s/m_6a0c08bc8f60819196b9990aae18ed10"]
 
 
 
