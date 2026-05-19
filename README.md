@@ -1,9 +1,11 @@
+````md
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=BHAGYASHREE%20SHASTRAKAR&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20QA%20Engineer%20|%20Automation%20Testing%20|%20AI%20Learner&descAlignY=55"/>
 
 <div align="center">
 
-# ⚡ BHAGYASHREE SHASTRAKAR ⚡
+# ⚡ ELITE SOFTWARE QA ENGINEER ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=950&lines=SOFTWARE+QA+ENGINEER;4%2B+Years+Experience+in+QA;AUTOMATION+TESTING+SPECIALIST;SELENIUM+%7C+JAVA+%7C+TESTNG;REST+ASSURED+%7C+API+TESTING;PYTHON+%7C+GENERATIVE+AI;AI+TOOLS+%7C+PROMPT+ENGINEERING" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=950&lines=SOFTWARE+QA+ENGINEER;AUTOMATION+TESTING+SPECIALIST;SELENIUM+%7C+JAVA+%7C+TESTNG;REST+ASSURED+%7C+API+TESTING;PYTHON+%7C+GENERATIVE+AI;AI+POWERED+QUALITY+ENGINEERING" />
 
 </div>
 
@@ -147,13 +149,23 @@ Learning:
 
 ---
 
+# 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TestWithBhagya&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
 # 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TestWithBhagya&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TestWithBhagya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TestWithBhagya&layout=compact&theme=radical&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TestWithBhagya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -163,7 +175,17 @@ Learning:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TestWithBhagya&theme=radical&hide_border=true"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=TestWithBhagya&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -173,7 +195,7 @@ Learning:
 
 <div align="center">
 
-<a href="[https://github.com/TestWithBhagya/BhagyaAIQA]">
+<a href="https://github.com/TestWithBhagya">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -202,7 +224,7 @@ Learning:
 
 <img src="https://komarev.com/ghpvc/?username=TestWithBhagya&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
-
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 ```
