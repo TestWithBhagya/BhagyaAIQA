@@ -120,22 +120,23 @@ Current Focus: Automation + AI Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,jenkins" />
 
 </div>
 
 ```yaml
-Learning:
+Practiced & Self-Learned:
   - Python Programming
   - REST Assured Automation
   - Jenkins CI/CD
+
+Currently Learning:
   - Generative AI
   - Prompt Engineering
   - Vertex AI
   - AI-Powered Testing
-```
 
-🚀 Exploring AI-driven automation and intelligent Quality Engineering workflows.
+🚀 Passionately exploring AI-driven automation, intelligent testing workflows, and next-generation Quality Engineering practices.
 
 ---
 
