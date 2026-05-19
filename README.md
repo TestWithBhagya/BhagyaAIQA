@@ -16,7 +16,7 @@
 
 
 
-[<img align="right" width="380" src="https://chatgpt.com/s/m_6a0c08bc8f60819196b9990aae18ed10"]
+<img align="right" width="380" src="[https://github.com/TestWithBhagya/BhagyaAIQA/blob/main/ChatGPT%20Image%20May%2019%2C%202026%2C%2002_31_19%20PM.png]">
 
 
 
