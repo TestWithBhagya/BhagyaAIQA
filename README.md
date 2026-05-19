@@ -26,9 +26,9 @@ Current Focus: Automation + AI Technologies
 
 🚀 Results-driven Software QA Engineer with strong expertise in Manual & Automation Testing for enterprise web applications and ecommerce platforms.
 
-⚡ Experienced in Selenium WebDriver with Java, TestNG, POM Framework, API Testing, JIRA, Agile Scrum, SQL Validation, and CI/CD concepts.
+⚡ Skilled in Selenium WebDriver with Java, TestNG, POM Framework, API Testing, JIRA, Agile Scrum, SQL Validation, Automation Framework Development, and Quality Engineering practices.
 
-🧠 Currently learning Python and Generative AI technologies to build intelligent automation solutions and AI-powered QA workflows.
+🧠 Passionate about AI-driven testing, intelligent automation workflows, and next-generation Quality Engineering solutions.
 
 ---
 
@@ -60,7 +60,8 @@ Current Focus: Automation + AI Technologies
 + Customer Login & Registration Testing
 + Product & Inventory Validation
 + Basket & Payment Workflow Testing
-+ Functional + Regression Testing
++ Functional Testing
++ Regression Testing
 + Integration Testing
 ```
 
@@ -99,7 +100,7 @@ Current Focus: Automation + AI Technologies
 + Page Object Model (POM)
 + Data Driven Testing
 + Excel Utility Integration
-+ Advanced XPath & Waits
++ Advanced XPath & Wait Strategies
 ```
 
 ---
@@ -120,22 +121,24 @@ Current Focus: Automation + AI Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,jenkins" />
 
 </div>
 
 ```yaml
-Learning:
+Practiced & Self-Learned:
   - Python Programming
   - REST Assured Automation
   - Jenkins CI/CD
+
+Currently Learning:
   - Generative AI
   - Prompt Engineering
   - Vertex AI
   - AI-Powered Testing
 ```
 
-🚀 Exploring AI-driven automation and intelligent Quality Engineering workflows.
+🚀 Passionately exploring AI-driven automation, intelligent testing workflows, and next-generation Quality Engineering practices.
 
 ---
 
@@ -163,9 +166,9 @@ Learning:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TestWithBhagya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TestWithBhagya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TestWithBhagya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TestWithBhagya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
 
 </div>
 
@@ -175,7 +178,17 @@ Learning:
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=TestWithBhagya&theme=tokyonight&hide_border=true&background=0D1117" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=TestWithBhagya&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/TestWithBhagya/TestWithBhagya/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
