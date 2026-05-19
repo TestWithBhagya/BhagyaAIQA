@@ -13,7 +13,10 @@
 # 💫 ABOUT ME
 
 
-<img align="right" width="380" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
+
+<img align="right" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
+
 
 
 
