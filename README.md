@@ -194,11 +194,11 @@ Currently Learning:
 
 <div align="center">
 
-<a href="https://github.com/TestWithBhagya">
+<a href="https://github.com/TestWithBhagya/BhagyaAIQA">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/bhagyashri-shastrakar-78abb426a">
+<a href="https://www.linkedin.com/in/bhagyashri-shastrakar-78abb426">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
