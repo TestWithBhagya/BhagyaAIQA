@@ -210,6 +210,16 @@ Currently Learning:
 
 ---
 
+# 👨‍💻 PORTFOLIO
+
+📌 GitHub Repositories
+👉 https://github.com/TestWithBhagya/BhagyaAIQA
+
+📌 Resume
+👉 https://drive.google.com/file/d/1HNrT_zyiLNQb8XYTtI0CiYjcVMLI57g9/view?usp=drivesdk
+
+---
+
 # ⚡ ELITE QA ENGINEER QUOTE
 
 > “A great QA Engineer does not simply test software —
