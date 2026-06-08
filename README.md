@@ -18,7 +18,7 @@
 ```yaml
 Name: Bhagyashree Shastrakar
 Role: Software QA Engineer
-Experience: 4+ Years
+Experience: 3+ Years
 Location: India
 Specialization: Manual & Automation Testing
 Current Focus: Automation + AI Technologies
@@ -36,7 +36,7 @@ Current Focus: Automation + AI Technologies
 
 ## 🏢 Software QA Engineer
 
-### Exalt Integral Solutions Pvt Ltd | Nov 2021 – Present
+### Exalt Integral Solutions Pvt Ltd | Nov 2021 – Jan 2025
 
 ✔️ Automated 150+ test cases using Selenium WebDriver, Java, TestNG, and POM architecture
 
