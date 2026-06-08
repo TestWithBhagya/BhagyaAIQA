@@ -216,7 +216,7 @@ Currently Learning:
 👉 https://github.com/TestWithBhagya/BhagyaAIQA
 
 📌 Resume
-👉 https://drive.google.com/file/d/1HNrT_zyiLNQb8XYTtI0CiYjcVMLI57g9/view?usp=drivesdk
+👉 https://drive.google.com/file/d/1bb0KISY5dVrPapOvz_wC_DlXNCvCoz1p/view?usp=drivesdk
 
 ---
 
