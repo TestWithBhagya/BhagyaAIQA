@@ -36,7 +36,7 @@ Current Focus: Automation + AI Technologies
 
 ## 🏢 Software QA Engineer
 
-### Exalt Integral Solutions Pvt Ltd | Nov 2021 – Jan 2025
+### SIGNOVATE TECHNOLOGIES PRIVATE LIMITED | Apr 2023 – Till Date
 
 ✔️ Automated 150+ test cases using Selenium WebDriver, Java, TestNG, and POM architecture
 
